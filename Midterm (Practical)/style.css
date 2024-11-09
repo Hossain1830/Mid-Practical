@@ -79,13 +79,19 @@ main {
 }
 
 section {
-    text-align: center; /* Center align all content within the section */
+    text-align: center; 
     padding: 20px;
-    background-color: #f9f9f9; /* Light background color for better contrast */
+    background-color: #f9f9f9; 
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-
+#cover{
+    width: 100%;        
+    max-width: 400px;  
+    height: auto;      
+     border-radius: 10px; 
+    
+}
 
 
